@@ -1,0 +1,14 @@
+C:\Users\francisco\source\repos\HotelSolution\HotelSolution\bin\Debug\net7.0\HotelSolution.exe
+C:\Users\francisco\source\repos\HotelSolution\HotelSolution\bin\Debug\net7.0\HotelSolution.deps.json
+C:\Users\francisco\source\repos\HotelSolution\HotelSolution\bin\Debug\net7.0\HotelSolution.runtimeconfig.json
+C:\Users\francisco\source\repos\HotelSolution\HotelSolution\bin\Debug\net7.0\HotelSolution.dll
+C:\Users\francisco\source\repos\HotelSolution\HotelSolution\bin\Debug\net7.0\HotelSolution.pdb
+C:\Users\francisco\source\repos\HotelSolution\HotelSolution\obj\Debug\net7.0\HotelSolution.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\francisco\source\repos\HotelSolution\HotelSolution\obj\Debug\net7.0\HotelSolution.AssemblyInfoInputs.cache
+C:\Users\francisco\source\repos\HotelSolution\HotelSolution\obj\Debug\net7.0\HotelSolution.AssemblyInfo.cs
+C:\Users\francisco\source\repos\HotelSolution\HotelSolution\obj\Debug\net7.0\HotelSolution.csproj.CoreCompileInputs.cache
+C:\Users\francisco\source\repos\HotelSolution\HotelSolution\obj\Debug\net7.0\HotelSolution.dll
+C:\Users\francisco\source\repos\HotelSolution\HotelSolution\obj\Debug\net7.0\refint\HotelSolution.dll
+C:\Users\francisco\source\repos\HotelSolution\HotelSolution\obj\Debug\net7.0\HotelSolution.pdb
+C:\Users\francisco\source\repos\HotelSolution\HotelSolution\obj\Debug\net7.0\HotelSolution.genruntimeconfig.cache
+C:\Users\francisco\source\repos\HotelSolution\HotelSolution\obj\Debug\net7.0\ref\HotelSolution.dll
